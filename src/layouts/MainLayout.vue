@@ -5,7 +5,7 @@
       <q-toolbar>
         <q-toolbar-title>
           <q-avatar>
-            <img src="icon.svg">
+            <img src="https://uploads-ssl.webflow.com/5f7b07d2864ecd2ebd67992f/5fddef8f37658e1ef581b6a6_autonio-symbol-white.svg">
           </q-avatar>
           Autonio
         </q-toolbar-title>
